@@ -1,0 +1,10 @@
+POST http://localhost:8080/simulator
+Content-Type: application/json
+
+{
+  "name": "asd",
+  "email": "asd",
+  "amount": 400000,
+  "quotas": 6,
+  "income": 750000
+}
